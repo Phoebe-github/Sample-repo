@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}/*Change default of browser*/
+
+.my-style {
+    background-color: #B04759;
+    color: #B2A4FF;
+    padding-left: 420px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    margin: 20px;
+}
